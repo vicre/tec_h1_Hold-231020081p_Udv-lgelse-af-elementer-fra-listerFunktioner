@@ -1,6 +1,6 @@
 Afleveringsopgave
 
-Opgave A
+Opgave A // DONE
 Liste af int { 4, 7 , 12, 17, -3, 8, 0, -45, 101}
 
 Dan liste med alle tal mindre end eller lig 0
@@ -10,7 +10,7 @@ dan liste med alle tal større end 4
 Skriv static metode UdskrivListe(liste af int) Metoden modtager som vist en liste af int, og skal udskrive alle elemener i listen på skærmen.
 Metoden returnere ikke noget.
 
-Opgave B
+Opgave B 
 
 Opret Class Car med følgende public properties
 int Id,
